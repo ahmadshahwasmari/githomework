@@ -7,7 +7,7 @@ public class class19 {
 System.out.println("hello how are you");
 System.out.println("i am fine and you");
 System.out.println("how is the today going today");
-
+System.out.println("my day is fine what about you");
 	}
 
 }
